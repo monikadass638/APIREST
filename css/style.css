@@ -1,0 +1,14 @@
+#modal
+{
+    display: none;
+}
+.btn-edit
+{
+    cursor: pointer;
+}
+#close-btn
+{
+    cursor:pointer;
+    font-size:20px;
+    color:red;
+}
