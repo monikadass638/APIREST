@@ -12,7 +12,6 @@ $sname=$data["sname"];
 $sage = $data["sage"];
 $scity =$data["scity"];
 
-
  $query = "Update  student Set 
 name = '{$sname}',
 age = {$sage},
